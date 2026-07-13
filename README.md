@@ -30,6 +30,12 @@ The dataset contains 3,547 transaction records with information on coffee type, 
 - Latte generates the highest total revenue
 - March shows the highest monthly sales volume
 
+
+## Future Improvements
+- Perform predictive analysis using machine learning models.
+- Build an interactive dashboard using Power BI or Tableau.
+- Analyze seasonal trends using additional external factors.
+
 ## Project Structure
 notebook/
  [coffee_shop_sales_eda.ipynb](https://github.com/user-attachments/files/24262527/coffee_shop_sales_eda.ipynb)
