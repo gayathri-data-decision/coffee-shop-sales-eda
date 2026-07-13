@@ -34,7 +34,7 @@ The dataset contains 3,547 transaction records with information on coffee type, 
 ## Future Improvements
 - Perform predictive analysis using machine learning models.
 - Build an interactive dashboard using Power BI or Tableau.
-- Analyze seasonal trends using additional external factors.
+- Analyze seasonal sales trends by incorporating external factors such as weather, holidays, and promotional campaigns.
 
 ## Project Structure
 notebook/
